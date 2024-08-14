@@ -5,6 +5,14 @@
 
 Regular text
 
+### Add List
+- [x] Item 1
+- [ ] Item 2
+- [ ] Item 3
+
+-list item 1  
+-list item 2
+
 **Bold text**
 
 *Italicized text*
